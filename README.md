@@ -39,7 +39,7 @@ CureFast is a full-stack Hospital Management System developed using the MERN sta
 - Clerk
 - JWT
 - Cloudinary
-
+- Stripe
 ---
 
 ## Project Structure
